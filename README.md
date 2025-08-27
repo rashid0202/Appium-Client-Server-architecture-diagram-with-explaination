@@ -39,8 +39,3 @@ and provides a **step-by-step guide** for new users.
 - To show **how Appium works internally** with client-server architecture.  
 
 ---
-
-## 🚀 How to Use This Repo
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Appium-Automation-Docs.git
